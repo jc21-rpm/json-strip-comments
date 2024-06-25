@@ -4,7 +4,7 @@
 
 Name:           json-strip-comments
 Version:        1.0.0
-Release:        1
+Release:        1%{?dist}
 Summary:        A command to strip c style comments from a given file
 Group:          Applications/System
 License:        MIT
